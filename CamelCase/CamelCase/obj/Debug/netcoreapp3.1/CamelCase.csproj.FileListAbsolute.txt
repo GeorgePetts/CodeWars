@@ -1,0 +1,13 @@
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.exe
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.deps.json
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.json
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.runtimeconfig.dev.json
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.dll
+C:\source\Repos\CodeWars\CamelCase\CamelCase\bin\Debug\netcoreapp3.1\CamelCase.pdb
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csproj.AssemblyReference.cache
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfoInputs.cache
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.AssemblyInfo.cs
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.csproj.CoreCompileInputs.cache
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.dll
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.pdb
+C:\source\Repos\CodeWars\CamelCase\CamelCase\obj\Debug\netcoreapp3.1\CamelCase.genruntimeconfig.cache

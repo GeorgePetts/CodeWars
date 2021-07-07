@@ -1,0 +1,13 @@
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.exe
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.deps.json
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.runtimeconfig.json
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.runtimeconfig.dev.json
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.dll
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\bin\Debug\netcoreapp3.1\TenMinuteWalk.pdb
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.csproj.AssemblyReference.cache
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.AssemblyInfoInputs.cache
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.AssemblyInfo.cs
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.csproj.CoreCompileInputs.cache
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.dll
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.pdb
+C:\source\Repos\CodeWars\TenMinuteWalk\TenMinuteWalk\obj\Debug\netcoreapp3.1\TenMinuteWalk.genruntimeconfig.cache
