@@ -1,0 +1,13 @@
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.exe
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.deps.json
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.runtimeconfig.json
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.runtimeconfig.dev.json
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.dll
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\bin\Debug\netcoreapp3.1\MovieTickets.pdb
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.csproj.AssemblyReference.cache
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.AssemblyInfoInputs.cache
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.AssemblyInfo.cs
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.csproj.CoreCompileInputs.cache
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.dll
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.pdb
+C:\source\Repos\CodeWars\MovieTickets\MovieTickets\obj\Debug\netcoreapp3.1\MovieTickets.genruntimeconfig.cache
