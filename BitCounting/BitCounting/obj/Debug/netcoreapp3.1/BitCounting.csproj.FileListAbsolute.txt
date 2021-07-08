@@ -1,0 +1,13 @@
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.exe
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.deps.json
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.runtimeconfig.json
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.runtimeconfig.dev.json
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.dll
+C:\source\Repos\CodeWars\BitCounting\BitCounting\bin\Debug\netcoreapp3.1\BitCounting.pdb
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.csproj.AssemblyReference.cache
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.AssemblyInfoInputs.cache
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.AssemblyInfo.cs
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.csproj.CoreCompileInputs.cache
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.dll
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.pdb
+C:\source\Repos\CodeWars\BitCounting\BitCounting\obj\Debug\netcoreapp3.1\BitCounting.genruntimeconfig.cache
